@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192100577533",
+    "project_id": "fir-82a68",
+    "storage_bucket": "fir-82a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192100577533:android:6bdf8d884bfddc76db8e94",
+        "android_client_info": {
+          "package_name": "com.example.phonee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192100577533-t7fc7qhpvu5b11v0ncuo0j4p6ie8afod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpIDSBmzAuoM2Hx4RR8TSe8ahS5vcKe4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192100577533-t7fc7qhpvu5b11v0ncuo0j4p6ie8afod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
